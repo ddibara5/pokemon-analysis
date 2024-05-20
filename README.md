@@ -15,7 +15,7 @@ This project utilizes SQL to delve into various facets of Pokémon attributes an
 
 | File Name | Description | Skills Demonstrated | 
 |-----------|-------------|---------------------|
-| Stat Groupings | Calculation of average & standard deviation for each pokemon statistic. Grouping into high, average and low categories for composite scoring. | Summary statistics, Case statements |
+| [Stat Groupings](https://github.com/ddibara5/pokemon-analysis/blob/main/Stat%20Groupings.sql) | Calculation of average & standard deviation for each pokemon statistic. Grouping into high, average and low categories for composite scoring. | Summary statistics, Case statements |
 | [Composite Scoring](https://github.com/ddibara5/pokemon-analysis/blob/main/Composite%20Scoring.sql) | Define composite scoring process giving higher value to more important statistics | Case statements, Joins |
 | [Evolution Parsing](https://github.com/ddibara5/pokemon-analysis/blob/main/Evolution%20Parsing.sql) | Parse the evolutionary stage of each pokemon from a string field | Array Formulas, Text Splitting, Concatenation |
 | [Evolution Chain](https://github.com/ddibara5/pokemon-analysis/blob/main/Evolution%20Chain.sql) | Create a combined table with raw data, composite scoring and evolutionary stages. Also create a base pokemon field which displays the 1st evolution for all pokemon | Self Joins, Recursive CTEs, Less Common Joins |
