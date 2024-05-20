@@ -17,6 +17,7 @@ This project utilizes SQL to delve into various facets of Pokémon attributes an
 
 ## Dashboard Highlights
 
-![image](https://github.com/ddibara5/pokemon-analysis/assets/169186597/b5f890c3-6a45-4d73-8ca9-df464d85b224)
+![image](https://github.com/ddibara5/pokemon-analysis/assets/169186597/f67e6b29-906c-4bc7-a241-3c5a7344a37f)
 
-![image](https://github.com/ddibara5/pokemon-analysis/assets/169186597/6f378abd-3ca3-47e5-a22c-36c13e371651)
+![image](https://github.com/ddibara5/pokemon-analysis/assets/169186597/b2f20421-1dd8-4ec0-abef-6589938ec9ed)
+
